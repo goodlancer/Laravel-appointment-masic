@@ -1,0 +1,1 @@
+<span><?php echo e($time); ?></span><?php /**PATH /home/magicqr/core.magicqr.nl/resources/views/orders/partials/time.blade.php ENDPATH**/ ?>

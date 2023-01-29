@@ -1,0 +1,13 @@
+.diff-files.txt
+app/Http/Controllers/OrderController.php
+app/Http/Controllers/PaymentController.php
+app/Http/Controllers/PlansController.php
+app/Http/Controllers/RestorantController.php
+app/Restorant.php
+config/config.php
+database/migrations/2020_12_15_130511_update_paystack_verification.php
+resources/views/layouts/menu/partials/auth.blade.php
+resources/views/orders/index.blade.php
+resources/views/orders/partials/modals.blade.php
+resources/views/restorants/show.blade.php
+version.txt

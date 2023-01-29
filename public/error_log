@@ -1,0 +1,64 @@
+[04-Dec-2020 23:23:55 Europe/Amsterdam] PHP Fatal error:  Uncaught RuntimeException: Translation file [/home/magicqr/core.magicqr.nl/resources/lang/nl.json] contains an invalid JSON structure. in /home/magicqr/core.magicqr.nl/vendor/laravel/framework/src/Illuminate/Translation/FileLoader.php:145
+Stack trace:
+#0 [internal function]: Illuminate\Translation\FileLoader->Illuminate\Translation\{closure}(Array, '/home/magicqr/c...')
+#1 /home/magicqr/core.magicqr.nl/vendor/laravel/framework/src/Illuminate/Support/Collection.php(1512): array_reduce(Array, Object(Closure), Array)
+#2 /home/magicqr/core.magicqr.nl/vendor/laravel/framework/src/Illuminate/Translation/FileLoader.php(152): Illuminate\Support\Collection->reduce(Object(Closure), Array)
+#3 /home/magicqr/core.magicqr.nl/vendor/laravel/framework/src/Illuminate/Translation/FileLoader.php(63): Illuminate\Translation\FileLoader->loadJsonPaths('nl')
+#4 /home/magicqr/core.magicqr.nl/vendor/laravel/framework/src/Illuminate/Translation/Translator.php(324): Illuminate\Translation\FileLoader->load('nl', '*', '*')
+#5 /home/magic in /home/magicqr/core.magicqr.nl/vendor/laravel/framework/src/Illuminate/Translation/FileLoader.php on line 145
+[04-Dec-2020 23:23:58 Europe/Amsterdam] PHP Fatal error:  Uncaught RuntimeException: Translation file [/home/magicqr/core.magicqr.nl/resources/lang/nl.json] contains an invalid JSON structure. in /home/magicqr/core.magicqr.nl/vendor/laravel/framework/src/Illuminate/Translation/FileLoader.php:145
+Stack trace:
+#0 [internal function]: Illuminate\Translation\FileLoader->Illuminate\Translation\{closure}(Array, '/home/magicqr/c...')
+#1 /home/magicqr/core.magicqr.nl/vendor/laravel/framework/src/Illuminate/Support/Collection.php(1512): array_reduce(Array, Object(Closure), Array)
+#2 /home/magicqr/core.magicqr.nl/vendor/laravel/framework/src/Illuminate/Translation/FileLoader.php(152): Illuminate\Support\Collection->reduce(Object(Closure), Array)
+#3 /home/magicqr/core.magicqr.nl/vendor/laravel/framework/src/Illuminate/Translation/FileLoader.php(63): Illuminate\Translation\FileLoader->loadJsonPaths('nl')
+#4 /home/magicqr/core.magicqr.nl/vendor/laravel/framework/src/Illuminate/Translation/Translator.php(324): Illuminate\Translation\FileLoader->load('nl', '*', '*')
+#5 /home/magic in /home/magicqr/core.magicqr.nl/vendor/laravel/framework/src/Illuminate/Translation/FileLoader.php on line 145
+[04-Dec-2020 23:24:01 Europe/Amsterdam] PHP Fatal error:  Uncaught RuntimeException: Translation file [/home/magicqr/core.magicqr.nl/resources/lang/nl.json] contains an invalid JSON structure. in /home/magicqr/core.magicqr.nl/vendor/laravel/framework/src/Illuminate/Translation/FileLoader.php:145
+Stack trace:
+#0 [internal function]: Illuminate\Translation\FileLoader->Illuminate\Translation\{closure}(Array, '/home/magicqr/c...')
+#1 /home/magicqr/core.magicqr.nl/vendor/laravel/framework/src/Illuminate/Support/Collection.php(1512): array_reduce(Array, Object(Closure), Array)
+#2 /home/magicqr/core.magicqr.nl/vendor/laravel/framework/src/Illuminate/Translation/FileLoader.php(152): Illuminate\Support\Collection->reduce(Object(Closure), Array)
+#3 /home/magicqr/core.magicqr.nl/vendor/laravel/framework/src/Illuminate/Translation/FileLoader.php(63): Illuminate\Translation\FileLoader->loadJsonPaths('nl')
+#4 /home/magicqr/core.magicqr.nl/vendor/laravel/framework/src/Illuminate/Translation/Translator.php(324): Illuminate\Translation\FileLoader->load('nl', '*', '*')
+#5 /home/magic in /home/magicqr/core.magicqr.nl/vendor/laravel/framework/src/Illuminate/Translation/FileLoader.php on line 145
+[12-Dec-2020 16:50:25 Europe/Amsterdam] PHP Fatal error:  Uncaught RuntimeException: Translation file [/home/magicqr/core.magicqr.nl/resources/lang/nl.json] contains an invalid JSON structure. in /home/magicqr/core.magicqr.nl/vendor/laravel/framework/src/Illuminate/Translation/FileLoader.php:145
+Stack trace:
+#0 [internal function]: Illuminate\Translation\FileLoader->Illuminate\Translation\{closure}(Array, '/home/magicqr/c...')
+#1 /home/magicqr/core.magicqr.nl/vendor/laravel/framework/src/Illuminate/Support/Collection.php(1512): array_reduce(Array, Object(Closure), Array)
+#2 /home/magicqr/core.magicqr.nl/vendor/laravel/framework/src/Illuminate/Translation/FileLoader.php(152): Illuminate\Support\Collection->reduce(Object(Closure), Array)
+#3 /home/magicqr/core.magicqr.nl/vendor/laravel/framework/src/Illuminate/Translation/FileLoader.php(63): Illuminate\Translation\FileLoader->loadJsonPaths('nl')
+#4 /home/magicqr/core.magicqr.nl/vendor/laravel/framework/src/Illuminate/Translation/Translator.php(324): Illuminate\Translation\FileLoader->load('nl', '*', '*')
+#5 /home/magic in /home/magicqr/core.magicqr.nl/vendor/laravel/framework/src/Illuminate/Translation/FileLoader.php on line 145
+[12-Dec-2020 16:50:30 Europe/Amsterdam] PHP Fatal error:  Uncaught RuntimeException: Translation file [/home/magicqr/core.magicqr.nl/resources/lang/nl.json] contains an invalid JSON structure. in /home/magicqr/core.magicqr.nl/vendor/laravel/framework/src/Illuminate/Translation/FileLoader.php:145
+Stack trace:
+#0 [internal function]: Illuminate\Translation\FileLoader->Illuminate\Translation\{closure}(Array, '/home/magicqr/c...')
+#1 /home/magicqr/core.magicqr.nl/vendor/laravel/framework/src/Illuminate/Support/Collection.php(1512): array_reduce(Array, Object(Closure), Array)
+#2 /home/magicqr/core.magicqr.nl/vendor/laravel/framework/src/Illuminate/Translation/FileLoader.php(152): Illuminate\Support\Collection->reduce(Object(Closure), Array)
+#3 /home/magicqr/core.magicqr.nl/vendor/laravel/framework/src/Illuminate/Translation/FileLoader.php(63): Illuminate\Translation\FileLoader->loadJsonPaths('nl')
+#4 /home/magicqr/core.magicqr.nl/vendor/laravel/framework/src/Illuminate/Translation/Translator.php(324): Illuminate\Translation\FileLoader->load('nl', '*', '*')
+#5 /home/magic in /home/magicqr/core.magicqr.nl/vendor/laravel/framework/src/Illuminate/Translation/FileLoader.php on line 145
+[19-Dec-2020 19:31:07 Europe/Amsterdam] PHP Fatal error:  During class fetch: Uncaught ErrorException: include(): read of 23520 bytes failed with errno=12 Cannot allocate memory in /home/magicqr/core.magicqr.nl/vendor/composer/ClassLoader.php:444
+Stack trace:
+#0 /home/magicqr/core.magicqr.nl/vendor/composer/ClassLoader.php(444): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'include(): read...', '/home/magicqr/c...', 444, Array)
+#1 /home/magicqr/core.magicqr.nl/vendor/composer/ClassLoader.php(444): include()
+#2 /home/magicqr/core.magicqr.nl/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/magicqr/c...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Data...')
+#4 /home/magicqr/core.magicqr.nl/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php(20): spl_autoload_call('Illuminate\\Data...')
+#5 /home/magicqr/core.magicqr.nl/vendor/composer/ClassLoader.php(444): include('/home/magicqr/c...')
+#6 /home/magicqr/core.magicqr.nl/vendor/composer/ClassLoader.php(322): Composer\Autoload\i in /home/magicqr/core.magicqr.nl/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 20
+[19-Dec-2020 18:31:44 UTC] PHP Notice:  require(): read of 3121 bytes failed with errno=12 Cannot allocate memory in /home/magicqr/core.magicqr.nl/vendor/composer/autoload_real.php on line 69
+[19-Dec-2020 18:31:44 UTC] PHP Fatal error:  require(): Failed opening required '/home/magicqr/core.magicqr.nl/vendor/composer/../biscolab/laravel-recaptcha/src/helpers.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/magicqr/core.magicqr.nl/vendor/composer/autoload_real.php on line 69
+[19-Dec-2020 18:32:58 UTC] PHP Fatal error:  require(): Failed opening required '/home/magicqr/core.magicqr.nl/vendor/composer/../symfony/polyfill-php70/bootstrap.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/magicqr/core.magicqr.nl/vendor/composer/autoload_real.php on line 69
+[19-Dec-2020 18:35:28 UTC] PHP Notice:  require(): read of 979 bytes failed with errno=12 Cannot allocate memory in /home/magicqr/core.magicqr.nl/vendor/composer/autoload_real.php on line 69
+[19-Dec-2020 18:35:28 UTC] PHP Fatal error:  require(): Failed opening required '/home/magicqr/core.magicqr.nl/vendor/composer/../markbaker/matrix/classes/src/operations/divideby.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/magicqr/core.magicqr.nl/vendor/composer/autoload_real.php on line 69
+[21-Dec-2020 15:32:22 UTC] PHP Notice:  include(): read of 3906 bytes failed with errno=12 Cannot allocate memory in /home/magicqr/core.magicqr.nl/vendor/composer/ClassLoader.php on line 444
+[21-Dec-2020 15:32:22 UTC] PHP Warning:  include(): Failed opening '/home/magicqr/core.magicqr.nl/vendor/composer/../vlucas/phpdotenv/src/Environment/AbstractVariables.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/magicqr/core.magicqr.nl/vendor/composer/ClassLoader.php on line 444
+[21-Dec-2020 15:32:23 UTC] PHP Fatal error:  Uncaught ReflectionException: Class config does not exist in /home/magicqr/core.magicqr.nl/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home/magicqr/core.magicqr.nl/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('config')
+#1 /home/magicqr/core.magicqr.nl/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('config')
+#2 /home/magicqr/core.magicqr.nl/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('config', Array)
+#3 /home/magicqr/core.magicqr.nl/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('config', Array)
+#4 /home/magicqr/core.magicqr.nl/vendor/laravel/framework/src/Illuminate/Container/Container.php(1227): Illuminate\Foundation\Application->make('config')
+#5 /home/magicqr/core.magicqr.nl/vendor/laravel/framework/src/Illuminate/Log/LogManag in /home/magicqr/core.magicqr.nl/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
